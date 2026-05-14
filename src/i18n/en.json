@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "Margarita",
+    "subtitle": ""
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "inventory": "Inventory",
+    "insights": "Insights",
+    "decide": "Decide",
+    "settings": "Settings"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "search": "Search",
+    "export": "Export",
+    "back": "Back",
+    "loading": "Loading...",
+    "empty": "No data"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalItems": "Total Items",
+    "totalValue": "Total Value",
+    "totalNetValue": "Net Value",
+    "monthlyDepreciation": "Monthly Depreciation",
+    "categoryBreakdown": "Category Breakdown",
+    "purchaseTrend": "Purchase Trend",
+    "topCost": "Top 5 Daily Cost"
+  },
+  "inventory": {
+    "title": "Inventory",
+    "addItem": "Add Item",
+    "gridView": "Grid",
+    "listView": "List",
+    "itemDetail": "Item Detail"
+  },
+  "insights": {
+    "title": "Insights",
+    "idleList": "Idle List",
+    "regretRank": "Regret Rank"
+  },
+  "decide": {
+    "title": "Decide",
+    "wishList": "Wish List",
+    "buyCalculator": "Don't Buy Calculator"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "currency": "Currency",
+    "backup": "Backup",
+    "restore": "Restore",
+    "clearData": "Clear Data"
+  }
+}

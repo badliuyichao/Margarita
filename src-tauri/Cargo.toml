@@ -1,0 +1,28 @@
+[package]
+name = "margarita"
+version = "0.1.0"
+edition = "2021"
+description = "藏珠 - 个人物品盘点应用"
+
+[package.metadata.tauri-winres]
+# Skip Windows resource compilation for dev builds
+
+[lib]
+name = "margarita_lib"
+crate-type = ["lib", "cdylib", "staticlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = ["tray-icon"] }
+tauri-plugin-dialog = "2"
+tauri-plugin-fs = "2"
+tauri-plugin-shell = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+rusqlite = { version = "0.31", features = ["bundled"] }
+uuid = { version = "1", features = ["v4"] }
+chrono = { version = "0.4", features = ["serde"] }
+thiserror = "1"
+open = "5"

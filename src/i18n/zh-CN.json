@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "藏珠",
+    "subtitle": "Margarita"
+  },
+  "nav": {
+    "dashboard": "仪表盘",
+    "inventory": "物品库",
+    "insights": "洞察",
+    "decide": "决策",
+    "settings": "设置"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "confirm": "确认",
+    "search": "搜索",
+    "export": "导出",
+    "back": "返回",
+    "loading": "加载中...",
+    "empty": "暂无数据"
+  },
+  "dashboard": {
+    "title": "仪表盘",
+    "totalItems": "物品总数",
+    "totalValue": "资产总值",
+    "totalNetValue": "资产总净值",
+    "monthlyDepreciation": "本月折旧",
+    "categoryBreakdown": "品类占比",
+    "purchaseTrend": "购买趋势",
+    "topCost": "日均成本 Top5"
+  },
+  "inventory": {
+    "title": "物品库",
+    "addItem": "添加物品",
+    "gridView": "网格",
+    "listView": "列表",
+    "itemDetail": "物品详情"
+  },
+  "insights": {
+    "title": "洞察",
+    "idleList": "闲置清单",
+    "regretRank": "后悔榜"
+  },
+  "decide": {
+    "title": "决策",
+    "wishList": "愿望清单",
+    "buyCalculator": "不买计算器"
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "currency": "默认货币",
+    "backup": "数据备份",
+    "restore": "数据恢复",
+    "clearData": "清空数据"
+  }
+}
