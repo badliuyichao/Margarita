@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "藏珠",
+    "subtitle": "Margarita"
+  },
+  "nav": {
+    "dashboard": "儀表板",
+    "inventory": "物品庫",
+    "insights": "洞察",
+    "decide": "決策",
+    "settings": "設定"
+  },
+  "common": {
+    "save": "儲存",
+    "cancel": "取消",
+    "delete": "刪除",
+    "edit": "編輯",
+    "confirm": "確認",
+    "search": "搜尋",
+    "export": "匯出",
+    "back": "返回",
+    "loading": "載入中...",
+    "empty": "暫無資料"
+  },
+  "dashboard": {
+    "title": "儀表板",
+    "totalItems": "物品總數",
+    "totalValue": "資產總值",
+    "totalNetValue": "資產總淨值",
+    "monthlyDepreciation": "本月折舊",
+    "categoryBreakdown": "品類佔比",
+    "purchaseTrend": "購買趨勢",
+    "topCost": "日均成本 Top5"
+  },
+  "inventory": {
+    "title": "物品庫",
+    "addItem": "新增物品",
+    "gridView": "網格",
+    "listView": "列表",
+    "itemDetail": "物品詳情"
+  },
+  "insights": {
+    "title": "洞察",
+    "idleList": "閒置清單",
+    "regretRank": "後悔榜"
+  },
+  "decide": {
+    "title": "決策",
+    "wishList": "願望清單",
+    "buyCalculator": "不買計算器"
+  },
+  "settings": {
+    "title": "設定",
+    "language": "語言",
+    "currency": "預設貨幣",
+    "backup": "資料備份",
+    "restore": "資料還原",
+    "clearData": "清除資料"
+  }
+}
